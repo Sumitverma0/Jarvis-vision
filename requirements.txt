@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+opencv-python
+mediapipe
+google-generativeai
+protobuf<3.20
+setuptools==65.5.0
+pyaudio              # For microphone input (if not working by default)
+psutil               # For battery status feature
+requests             # If using weather or other API
